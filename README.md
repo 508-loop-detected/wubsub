@@ -19,3 +19,5 @@ The switches control low-pass filters -- up for a moderate amount of filtration,
 This module, like many of my modules, uses 2mm-pitch male/female headers. Be sure you order/use the right thing!
 
 Most ICs are SOIC 8/14/16; all passives are 0805. The BOMs prefixed with `fixed` are easier to read; the others can be used along with the Pick-and-place and gerber files to order PCBs.
+
+The input section using a 4093 to double the frequency of the input waveform is shamelessly borrowed, as most great Eurorack DIY things are, from Ken Stone. 
