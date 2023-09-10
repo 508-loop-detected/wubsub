@@ -1,0 +1,17 @@
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price,Pins,3DModel,Contributor,Value,link,pps,subpart_no
+1,C100k,"OFFSET-1, OFFSET-2, OFFSET-3, OFFSET-4, OFFSET-5, OFFSET-6",9MM_SNAP-IN_POT_3,6,,,,,,5,,rossgrady,,,,
+2,100k,"R1, R2, R6, R7, R8, R9, R14, R15, R16, R17, R22, R23",R0805,12,,,,,,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,,https://item.szlcsc.com/142685.html,,
+3,1k,"R3, R4, R11, R12, R19, R20",R0805,6,,,,,,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,,https://item.szlcsc.com/142685.html,,
+4,68k,"R5, R10, R13, R18, R21, R30",R0805,6,,,,,,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,,https://item.szlcsc.com/142685.html,,
+5,0.1uF,"C1, C2, C7, C8, C11, C12",C0805,6,,,,,,2,C0805_L2.0-W1.3-H1.3,LCEDA_Lib,,https://item.szlcsc.com/373011.html,,
+6,100pF,"C3, C4, C5, C6, C9, C10",C0805,6,,,,,,2,C0805_L2.0-W1.3-H1.3,LCEDA_Lib,,https://item.szlcsc.com/373011.html,,
+7,1N4148,"D1, D2, D3, D6, D7, D8, D9, D12, D13, D14, D16, D17",SOD-80_L3.5-W1.5-RD,12,1N4148W,Tak Cheong,LCSC,C129216,0.022,2,SOD-80_BD1.5-L3.5,LCEDA_Lib,,https://item.szlcsc.com/69994.html,,
+8,BZT52C3V6-TP,"D4, D5, D10, D11, D15, D18",SOD-123_L2.8-W1.8-LS3.7-RD,6,BZT52C3V6-TP,Micro Commercial Components,LCSC,C78730,,2,SOD-123_L2.8-W1.8-LS3.7-RD,LCSC,,https://item.szlcsc.com/301422.html,,
+9,X4611WV-04I-C28D40,"H1, H2, H3, H4, H5, H6",HDR-TH_4P-P2.00-V-M,6,X4611WV-04I-C28D40,XKB Connectivity,LCSC,C706995,0.053,4,HDR-TH_4P-P2.00-M-LI-1X4P,LCSC,,https://item.szlcsc.com/562479.html,,
+10,X4611WV-05I-C28D40,H7,HDR-TH_5P-P2.00-V-M,1,X4611WV-05I-C28D40,XKB Connectivity,LCSC,C706994,0.074,5,HDR-TH_5P-P2.00-M-LI-1X5P,LCSC,,https://atta.szlcsc.com/upload/public/pdf/source/20200518/C541858_7610F54454E936EFCDE06B655DF7C837.pdf,,
+11,TL072_SMD,"U1, U2, U3",SO08,3,,,,,,8,,rossgrady,,,,1
+12,B100k,"CV-POT-1, CV-POT-2, CV-POT-3, CV-POT-4, CV-POT-5, CV-POT-6",9MM_SNAP-IN_POT_3,6,,,,,,5,,rossgrady,,,,
+13,22nF,"C13, C16, C18, C20, C22, C24",CAP- 2.5*4.6*7,6,FKP0D002200B00HSSD,,Mouser,,,2,,numaxim,220pf,,100pf,
+14,0.1uF,"C14, C15, C17, C19, C21, C23",CAP- 2.5*4.6*7,6,FKP0D002200B00HSSD,,Mouser,,,2,,numaxim,220pf,,100pf,
+15,THONKICONNNEW,"IN, OUT, CV-IN-1, CV-IN-2, CV-IN-3, CV-IN-4, CV-IN-5, CV-IN-6",THONKICONN-TIGHT,8,,,,,,3,,rossgrady,,,,
+16,SUBMINI_SPDT_ONOFFON,"SW-1, SW-2, SW-3, SW-4, SW-5, SW-6",SUBMINI_TOGGLE,6,,,,,,3,,rossgrady,,,,
