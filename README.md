@@ -18,9 +18,9 @@ The switches control low-pass filters -- up for a moderate amount of filtration,
 
 Trimming:
  - VR1 is for setting 5V -- check it at the test point labeled 5V
- - VR2 is for tuning the built-in oscillator -- if you don't plug anything in to the input, the wubblesubble will drone. Turn all of the pots all the way left, except for the upper left. Adjust VR2 until you have whatever note at the output you want. If you want to perform Terry Riley's "In C," for example, tune to C :) 
+ - VR2 is for tuning the built-in oscillator -- if you don't plug anything in to the input, the wubblesubble will drone. Turn all of the pots all the way CCW, except for the upper left -- turn it all the way CW. Adjust VR2 until you have whatever note at the output you want. If you want to perform Terry Riley's "In C," for example, tune to C :) 
 
-On the back of the module, next to the power, there is a header for a jumper. You must have a jumper on either the left 2 or the right 2 pins. If you have it on the left 2 (labeled "mod," it's hard to read, sorry) then the output is normalled to all the CV inputs, meaning it will self-modulate if you turn up the CV pots with nothing plugged in to the CV inputs. If you have it on the right 2 (labeled "no") then the CV inputs are just grounded when there's nothing plugged in.
+On the back of the module, above the power, there is a header for a jumper. You must have a jumper on either the left 2 or the right 2 pins. If you have it on the left 2 (labeled "mod," it's hard to read, sorry) then the output is normalled to all the CV inputs, meaning it will self-modulate if you turn up the CV pots with nothing plugged in to the CV inputs. If you have it on the right 2 (labeled "no") then the CV inputs are just grounded when there's nothing plugged in.
 
 This module, like many of my modules, uses 2mm-pitch male/female headers. Be sure you order/use the right thing!
 
